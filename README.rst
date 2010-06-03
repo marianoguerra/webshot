@@ -13,7 +13,7 @@ Usage
 
 run it providing the url::
 
-        python webshot.py http://github.com/marianoguerra/webshot
+        python webshot.py http://marianoguerra.github.com/pepete/show.html#webshot.json
 
 while navigating you can use the following keyboard shortcuts
 
