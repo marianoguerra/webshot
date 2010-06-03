@@ -6,7 +6,7 @@ a tool to take screenshots of websites and save them to png or pdf
 Requires
 ~~~~~~~~
 
-python, pygtk and python-webkit.
+python, pygtk and python-webkit
 
 Usage
 ~~~~~
@@ -26,3 +26,8 @@ ctrl+s
 esc
         close
 
+Example Output
+~~~~~~~~~~~~~~
+
+See example-output.png and example-output.pdf for examples of the
+resulting screenshots
