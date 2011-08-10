@@ -3,6 +3,11 @@ webshot
 
 a tool to take screenshots of websites and save them to png or pdf
 
+Status
+~~~~~~
+
+this was a nice experiment with gtk/webkit it works but there are better alternatives, if you want to extend it fork it and send pull requests
+
 Requires
 ~~~~~~~~
 
